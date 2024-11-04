@@ -1,4 +1,4 @@
-# [WIP] Concept program tutorial
+# Concept program tutorial
 
 Learn the Bayesian program induction approach to human concept learning with 
 working examples and hands-on exercises.
@@ -25,7 +25,9 @@ Authors: Bonan Zhao, Logan Nelson
 
 ## Exercise
 
-https://colala.berkeley.edu/papers/piantadosi2016logical.pdf
+* https://colala.berkeley.edu/papers/piantadosi2016logical.pdf
+
+* Logan's worked-out example: https://colab.research.google.com/drive/1TLO7NArKCsnmfEyDw5QvFDcpwobK3vl9?usp=sharing#scrollTo=NqeaWTlviMMI
 
 
 ## Challenge
